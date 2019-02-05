@@ -1,0 +1,9 @@
+{
+  "AUTHOR" : "Shatteredbeam#6655",
+  "NAME" : "testing",
+  "SHORT" : "Misc. testing commands.",
+  "DESCRIPTION" : "Miscellaneous testing commands.",
+  "TAGS" : ["command", "cmd", "testing"],
+  "INSTALL_MSG" : "Thank you for installing the test command cog.",
+  "DISABLED" : false
+}
