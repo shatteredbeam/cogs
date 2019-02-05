@@ -8,7 +8,7 @@ class TestCog:
         self.bot = bot
 
     @commands.command()
-    async def respond(self, user: discord.member):
+    async def respond(self, user: discord.Member):
         await self.bot.say(f"I can respond, {user.mention}")
 
 
